@@ -12,7 +12,7 @@
   <a href="https://www.romainblanchot.com">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/romain-blanchot">
+  <a href="https://www.linkedin.com/in/romainblanchot">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:romain.blanchot@nerionsoft.com">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nerionsoft.com">nerionsoft.com</a> · <a href="https://www.romainblanchot.com">romainblanchot.com</a> · <a href="https://www.linkedin.com/in/romain-blanchot">linkedin.com/in/romain-blanchot</a> · <a href="mailto:romain.blanchot@nerionsoft.com">romain.blanchot@nerionsoft.com</a>
+  <a href="https://nerionsoft.com">nerionsoft.com</a> · <a href="https://www.romainblanchot.com">romainblanchot.com</a> · <a href="https://www.linkedin.com/in/romain-blanchot">linkedin.com/in/romainblanchot</a> · <a href="mailto:romain.blanchot@nerionsoft.com">romain.blanchot@nerionsoft.com</a>
 </p>
 
 ---
