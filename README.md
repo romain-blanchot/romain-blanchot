@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nerionsoft.com">nerionsoft.com</a> · <a href="https://www.romainblanchot.com">romainblanchot.com</a> · <a href="https://www.linkedin.com/in/romain-blanchot">linkedin.com/in/romainblanchot</a> · <a href="mailto:romain.blanchot@nerionsoft.com">romain.blanchot@nerionsoft.com</a>
+  <a href="https://nerionsoft.com">nerionsoft.com</a> · <a href="https://www.romainblanchot.com">romainblanchot.com</a> · <a href="https://www.linkedin.com/in/romainblanchot">linkedin.com/in/romainblanchot</a> · <a href="mailto:romain.blanchot@nerionsoft.com">romain.blanchot@nerionsoft.com</a>
 </p>
 
 ---
